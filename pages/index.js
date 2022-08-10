@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <Header title="B-money.org" />
+        <p className="Electroncic cash system">
+          B-money, Bitcoin Core Refined <code>Build on B-money</code>
         </p>
       </main>
 
